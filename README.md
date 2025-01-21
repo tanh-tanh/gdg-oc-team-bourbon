@@ -17,11 +17,11 @@ Nhập các thông tin cần thiết và kéo xuống dưới cùng nhập kết
 # Hướng dẫn sử dụng bản app:
 
 ## các thư viện cần cài đặt:
-1. **kagglehub**\\
-2. **tkinter** (thư viện chuẩn đi kèm Python, dùng để xây dựng giao diện người dùng đồ họa - GUI)\\
-3. **pandas**\\
-4. **numpy**\\
-5. **scikit-learn** (trong đó ta sử dụng cụ thể DecisionTreeRegressor) 
+- **kagglehub**
+- **tkinter** (thư viện chuẩn đi kèm Python, dùng để xây dựng giao diện người dùng đồ họa - GUI)
+- **pandas**
+- **numpy**
+- **scikit-learn** (trong đó ta sử dụng cụ thể DecisionTreeRegressor) 
 ## cách cài đặt:
 ```bash
 pip instal {tên thư viện ở phía trên}
