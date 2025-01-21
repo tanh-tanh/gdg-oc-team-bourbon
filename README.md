@@ -29,6 +29,6 @@ pip instal {tên thư viện ở phía trên}
 ## Bước 2: Tải file ML.py về máy
 ## Bước 3: chạy và nhập thông tin
 # Ref:
-- Data set: [Kaggle(MIT)](https://www.kaggle.com/datasets/hosammhmdali/heart-disease-dataset/data)
+- Data set: [Kaggle](https://www.kaggle.com/datasets/hosammhmdali/heart-disease-dataset/data)
 - Chat gpt
 - Anh ấn độ nào đấy trên yt
