@@ -13,12 +13,12 @@ Dưới đây là danh sách các thư viện Python thường được sử d�
 - **Cách cài đặt** (qua `pip`):
   ```bash
   pip install numpy
-##2. Pandas
+## 2. Pandas
 - **Chức năng chính**: Pandas hỗ trợ thao tác, xử lý dữ liệu dạng bảng (DataFrame), đọc/ghi file CSV, Excel, v.v.
 - **Cách cài đặt** (qua `pip`):
   ```bash
   pip install pandas
-##3. scikit-learn (DecisionTreeRegressor)
+## 3. scikit-learn (DecisionTreeRegressor)
 - **Chức năng chính**: scikit-learn cung cấp các thuật toán Machine Learning (hồi quy, phân loại, cụm, ...).
   ```bash
   pip install pandas
